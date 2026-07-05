@@ -1,1 +1,8 @@
-//  Print the main menu
+//  Print the main 
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
